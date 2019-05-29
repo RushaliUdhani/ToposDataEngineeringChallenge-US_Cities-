@@ -5,6 +5,13 @@
 To build a scraper to collect the data about US Cities on the basis of Population, Crime Rate, and Area 
 To clean and store the data in a CSV
 ```
+**Libraries Used**
+```
+Pandas
+Beautiful Soup
+Requests
+Urllib
+```
 **Data Source**
 
 Web Scraped the data from -<br>
